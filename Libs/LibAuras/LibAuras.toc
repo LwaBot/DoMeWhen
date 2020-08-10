@@ -1,0 +1,6 @@
+## Interface: 80000
+## Title: LibAuras
+## Notes: Buff/Debuff Library
+## Author: Kibster
+
+LibAuras.lua
